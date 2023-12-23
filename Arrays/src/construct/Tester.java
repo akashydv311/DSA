@@ -1,6 +1,6 @@
 package construct;
 
-public class SSL {
+public class Tester {
 	public static void main(String[] args) {
 		
 	}
